@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/garybake/invertedIndexjs/issues"
   },
-  "homepage": "https://github.com/garybake/invertedIndexjs"
+  "homepage": "https://github.com/garybake/invertedIndexjs",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3"
+  }
 }
